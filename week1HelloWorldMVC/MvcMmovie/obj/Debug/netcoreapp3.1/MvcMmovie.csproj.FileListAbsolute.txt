@@ -35,3 +35,5 @@ F:\Study Materials\Semester 6\HIT339 Distributed Development\week1HelloWorldMVC\
 F:\Study Materials\Semester 6\HIT339 Distributed Development\week1HelloWorldMVC\MvcMmovie\obj\Debug\netcoreapp3.1\MvcMmovie.pdb
 F:\Study Materials\Semester 6\HIT339 Distributed Development\week1HelloWorldMVC\MvcMmovie\obj\Debug\netcoreapp3.1\MvcMmovie.genruntimeconfig.cache
 F:\Study Materials\Semester 6\HIT339 Distributed Development\week1HelloWorldMVC\MvcMmovie\obj\Debug\netcoreapp3.1\MvcMmovie.csproj.CopyComplete
+F:\Study Materials\Semester 6\HIT339 Distributed Development\week1HelloWorldMVC\MvcMmovie\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+F:\Study Materials\Semester 6\HIT339 Distributed Development\week1HelloWorldMVC\MvcMmovie\obj\Debug\netcoreapp3.1\Razor\Views\Home\Welcome.cshtml.g.cs
